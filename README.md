@@ -53,7 +53,9 @@ Public ecommerce sales dataset.
 
 - Ecommerce Dashboard.pbix
 - dataset.csv
-- dashboard.png
+- dashboard1.png(https://github.com/sshussain1728/Ecommerce-Sales-Dashboard-PowerBI/blob/main/dashboard1.png)
+- dashboard2.png(https://github.com/sshussain1728/Ecommerce-Sales-Dashboard-PowerBI/blob/main/dashboard2.png)
+- dashboard3.png(https://github.com/sshussain1728/Ecommerce-Sales-Dashboard-PowerBI/blob/main/dashboard3.png)
 - data_cleaning.py
 - README.md
 
